@@ -1,15 +1,10 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Page1
+permalink: /page1/
 ---
 
-Some information about you!
+### This is page1 
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+Here is some content for Page1
+$$ P(C_i\,|\,\textbf{x}) = \frac{P(C_i)P(\textbf{x}\,|\,C_i)}{P(\textbf{x})}$$
